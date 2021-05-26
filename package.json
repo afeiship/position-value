@@ -1,6 +1,6 @@
 {
   "name": "@jswork/position-value",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get position value by shorty.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
